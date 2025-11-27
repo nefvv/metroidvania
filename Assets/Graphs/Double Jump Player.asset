@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Double Jump Player
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptGraphAsset
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-76.76622,"y":-57.32978},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-264.0,"y":-192.0},"guid":"2c74729f-3d7f-45aa-8a29-643fe83b80c8","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-472.0,"y":-234.0},"guid":"620d6b74-4b54-47f4-9d54-919540cb53db","$version":"A","$type":"Unity.VisualScripting.Update"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-580.0,"y":15.0},"guid":"e9e1fdc4-5416-4a9f-9b08-b09d32dc1e8a","$version":"A","$type":"Unity.VisualScripting.OnTriggerEnter2D"}],"$version":"A"}}'
+    _objectReferences: []
