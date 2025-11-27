@@ -97,6 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+<<<<<<< HEAD
 
 
 Library
@@ -162,3 +163,5 @@ Thumbs.db
 Desktop.ini
 
 
+=======
+>>>>>>> f6356d6ce2566a68aaa7477d6c5d0d04eeb35c85
